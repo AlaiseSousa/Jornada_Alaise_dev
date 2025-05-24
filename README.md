@@ -1,6 +1,6 @@
 # Jornada_Alaise_dev
 🚀 **Desenvolvendo minhas habilidades até me tornar dev Junior!** 🚀
 
-✨ **Linguagens:** Python, JavaScript, HTML/CSS  
+✨ **Linguagens:** VB_net, JavaScript, HTML/CSS , sql/Mysql 
 💡 **Interesses:**  Frontend, Backend  
 
